@@ -115,7 +115,7 @@ Mobile Application Analytics enables marketers to gather mobile app actions and 
 After enabling the analytics feature in your app, visit the Web & Mobile Analytics application within the Marketing Cloud.
 
 <a name="0017"></a>
-# iOS
+# Implement on iOS
 
 <a name="0018"></a>
 ## Previous steps
